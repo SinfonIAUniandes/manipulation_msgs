@@ -61,7 +61,7 @@ add_service_files(
    GoToAction.srv
    GraspObject.srv
    set_angle_srv.srv
-   set_stiffness_srv.srv
+   set_stiffnesses_srv.srv
 )
 
 ## Generate actions in the 'action' folder
