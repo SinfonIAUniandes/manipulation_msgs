@@ -57,9 +57,10 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_service_files(
    FILES
-   GoToState.srv
-   GoToAction.srv
-   GraspObject.srv
+   go_to_state.srv
+   go_to_action.srv
+   grasp_object.srv
+   move_head.srv
    set_angle_srv.srv
    set_stiffnesses_srv.srv
 )
