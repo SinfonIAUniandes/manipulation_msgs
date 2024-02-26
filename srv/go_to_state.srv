@@ -1,4 +1,4 @@
 string name
-float64 velocity
+float64 speed
 ---
 string result
