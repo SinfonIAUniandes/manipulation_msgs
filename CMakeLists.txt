@@ -63,6 +63,7 @@ add_service_files(
    move_head.srv
    set_angle_srv.srv
    set_stiffnesses_srv.srv
+   go_to_sequence.srv
 )
 
 ## Generate actions in the 'action' folder
