@@ -59,7 +59,6 @@ add_service_files(
    FILES
    go_to_pose.srv
    move_head.srv
-   set_angle_srv.srv
    set_stiffnesses_srv.srv
    go_to_sequence.srv
 )
