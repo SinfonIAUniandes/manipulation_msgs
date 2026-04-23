@@ -61,8 +61,8 @@ add_service_files(
    play_action.srv
    grasp_object.srv
    move_head.srv
-   set_angle_srv.srv
    set_stiffnesses_srv.srv
+   go_to_sequence.srv
 )
 
 ## Generate actions in the 'action' folder
