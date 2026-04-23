@@ -58,6 +58,8 @@ find_package(catkin REQUIRED COMPONENTS
 add_service_files(
    FILES
    go_to_pose.srv
+   play_action.srv
+   grasp_object.srv
    move_head.srv
    set_stiffnesses_srv.srv
    go_to_sequence.srv
